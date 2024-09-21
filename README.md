@@ -2,7 +2,7 @@
 
 Repository storing our work towards Computer Vision
 
-[Lens Link](https://www.edmundoptics.com/p/35mm-c-series-fixed-focal-length-lens/16529/)
+#### [Lens Link](https://www.edmundoptics.com/p/35mm-c-series-fixed-focal-length-lens/16529/)
 
 - 11.8 Deg FOV
 - 15 foot scan from 75 feet
