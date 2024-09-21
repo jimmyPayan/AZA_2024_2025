@@ -1,0 +1,21 @@
+Deliverables for CV: Sept 2024 - May 2025
+
+Hardware
+Gimbal: Keep the Blackfly looking down vertically
+
+Software
+Onboard Algorithm: Accept a 720p image and identify standard (+ emergent?) objects
+
+	Algorithm will be programmed on Jetson Nano. 
+	
+	Traditional CV vs Neural Network (YOLO algorithm or similar)
+	
+Interfacing: Taking Algorithm output and communicating to Avionics -> Pixhawk 4
+
+27 Weeks total
+
+7 Weeks OpenCV - Get working model
+	Accept 720p image + identify standard (+ emergent?) objects
+	
+
+
