@@ -14,8 +14,15 @@ Interfacing: Taking Algorithm output and communicating to Avionics -> Pixhawk 4
 
 27 Weeks total
 
-7 Weeks OpenCV - Get working model
-	Accept 720p image + identify standard (+ emergent?) objects
+EOS: OpenCV - Get working model
+	Accept 720p image + identify standard (+ emergent?) 
+	Return location of object on image. Later, this will be changed to returning "Move" commands to Pixhawk 4.
 	
+EOY: OpenCV working model on Jetson, working with Pixhawk
 
+Horizontal FOV : 11.7 Degrees
+Vertical FOV: 6.9 Degrees
 
+Allows CV to see h15 ft x v9 ft
+
+Different lens? (Probably not.)
